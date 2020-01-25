@@ -12,5 +12,5 @@ Flask
 
 iOS
 
-<img src="https://user-images.githubusercontent.com/43768044/73123476-be34c480-3fd3-11ea-9dc6-ec4a38ed5309.jpeg" width="720">
-<img src="https://user-images.githubusercontent.com/43768044/73123549-8da15a80-3fd4-11ea-95a0-a89b8ab94290.jpeg" width="720">
+<img src="https://user-images.githubusercontent.com/43768044/73123476-be34c480-3fd3-11ea-9dc6-ec4a38ed5309.jpeg" width="320px">
+<img src="https://user-images.githubusercontent.com/43768044/73123549-8da15a80-3fd4-11ea-95a0-a89b8ab94290.jpeg" width="320px">
